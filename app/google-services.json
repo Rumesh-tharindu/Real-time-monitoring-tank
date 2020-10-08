@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61621599602",
+    "firebase_url": "https://nem-virtual.firebaseio.com",
+    "project_id": "nem-virtual",
+    "storage_bucket": "nem-virtual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61621599602:android:84f2b2735dbe4fa5a571eb",
+        "android_client_info": {
+          "package_name": "developer.example.virtual_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61621599602-i6otrbes9bcikj9bbkd43tv01fh5hmlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developer.example.virtual_iot",
+            "certificate_hash": "067fdd7159ea33eea9f608a3b9a59ddbd0dfb973"
+          }
+        },
+        {
+          "client_id": "61621599602-k4m32pdc39kt2iquu48otkfro0n96anq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4UrFKTDILTHnkAT7MM55-MYxXC3iC3Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61621599602-k4m32pdc39kt2iquu48otkfro0n96anq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
